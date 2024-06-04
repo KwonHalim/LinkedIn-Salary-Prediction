@@ -1,5 +1,5 @@
 ## DS24-1 Term Project Team 9
-### File Requirements
+### File Requirements💡
 
 Salary Prediction Task Requires...
 'job_posting.csv', 'salaries.csv', 'benefits.csv', 'job_skills.csv', 'industries.csv', 'job_industires.csv', and 'companies.csv'
